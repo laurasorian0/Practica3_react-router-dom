@@ -1,0 +1,23 @@
+.buttons{
+  position: absolute;
+  top: 50px;
+  left: 40%;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons button{
+  border-radius: 8px;
+  border: 2px solid black;
+  padding: 10px 13px;
+  background-color: rgb(221, 221, 221);
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.buttons button:hover{
+  transform: scale(1.1);
+  background-color: rgb(180, 180, 180);;
+}

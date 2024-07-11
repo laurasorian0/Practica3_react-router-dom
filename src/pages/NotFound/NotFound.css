@@ -1,0 +1,9 @@
+.not-found {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 35%;
+  padding: 20px;
+  text-align: center;
+  margin-top: 50px;
+  color: red;
+}

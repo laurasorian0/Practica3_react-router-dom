@@ -1,0 +1,8 @@
+.contact{
+  background-color: rgb(153, 255, 255);
+  height: 100svh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
